@@ -1,4 +1,4 @@
-# Swapper3D_Part-Mods
+# Swapper3D Part Mods
 Optimized printability or new functions for printable parts of the BigBrain3D Swapper3D Upgrade
 
 

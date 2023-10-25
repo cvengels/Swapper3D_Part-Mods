@@ -1,7 +1,10 @@
 # Swapper3D Part Mods
-Optimized printability or new functions for printable parts of the BigBrain3D Swapper3D Upgrade
 
+Optimized printability or new functions for printable parts of the BigBrain3D Swapper3D Upgrade.
 
+_**Note:** The STLs in the ZIP archives are oriented for best printability, they should not need supports or brims if not noted. The STEP files are oriented in the original mounting position. Keep this in mind before slicing the parts!_
+
+---
 
 ## Latest Releases
 Parts | Description
